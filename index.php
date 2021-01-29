@@ -4,7 +4,7 @@ abstract class  TestClass{
 
     public $a;
     public $b;
-    public $c
+    public $c;
 
     function __construct($a , $b)
     {
